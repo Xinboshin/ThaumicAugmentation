@@ -2,7 +2,6 @@
 ======
 Thaumic Augmentation is a Thaumcraft addon for Minecraft 1.12 that tries to add new content that would fit in with the base mod.
 
-For downloads, visit the [project's page on CurseForge](https://minecraft.curseforge.com/projects/thaumic-augmentation).
 
 Features
 ------
@@ -29,6 +28,3 @@ License
 -----
 Thaumic Augmentation is licensed under the GNU Lesser Public License v3 (or later). So that means if you want to include this mod in a modpack, go right ahead!
 
-Contributing
------
-For information on contributing to the project (and thank you for considering helping out), see [CONTRIBUTING.md](CONTRIBUTING.md).
